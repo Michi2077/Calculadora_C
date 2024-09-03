@@ -8,6 +8,10 @@ void resta(float a, float b) {
     printf("Resultado: %.2f\n", a - b);
 }
 
+void multiplicacion(float a, float b){
+    printf("Resultado:%.2f\n", a * b);
+}
+
 float division(float a, float b){
     if(b != 0){
          printf("Resultado: %.2f\n", a/b);
