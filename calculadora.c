@@ -7,3 +7,7 @@ void suma(float a, float b) {
 void resta(float a, float b) {
     printf("Resultado: %.2f\n", a - b);
 }
+
+void multiplicacion(float a, float b){
+    printf("Resultado:%.2f\n", a * b);
+}
